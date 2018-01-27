@@ -1,0 +1,17 @@
+<TEXTURE>
+<BACKtexture path="back.jpg" posx="0" posy="0" name="back"/>
+<BEGINtexture path="begin1.png" posx="270" posy="60" name="begin1"/>
+<EXITtexture path="exit1.png" posx="270" posy="200" name="exit1"/>
+<HELPtexture path="help1.png" posx="270" posy="340" name="help1"/>
+<PLAYBACKtexture path="playBack.jpg" posx="0" posy="0" name="playBack"/>
+<BLUEtexture path="blue.png" posx="0" posy="0" name="blue"/>
+<GREENtexture path="green.png" posx="0" posy="0" name="green"/>
+<PURPLEtexture path="purple.png" posx="0" posy="0" name="purple"/>
+<REDtexture path="red.png" posx="0" posy="0" name="red"/>
+<YELLOWtexture path="yellow.png" posx="0" posy="0" name="yellow"/>
+<highBLUEtexture path="blue_a.png" posx="0" posy="0" name="blueH"/>
+<highGREENtexture path="green_a.png" posx="0" posy="0" name="greenH"/>
+<highPURPLEtexture path="purple_a.png" posx="0" posy="0" name="purpleH"/>
+<highREDtexture path="red_a.png" posx="0" posy="0" name="redH"/>
+<highYELLOWtexture path="yellow_a.png" posx="0" posy="0" name="yellowH"/>
+</TEXTURE>

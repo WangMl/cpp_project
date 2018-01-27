@@ -1,0 +1,5 @@
+/*/Debug/*
+!.gitignore
+ipch/*
+*.sdf
+.vs
